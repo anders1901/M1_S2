@@ -1,3 +1,3 @@
-# 4IN903 - Logique et reprèsentations des connaissance
+# 4IN903 - Calcul haute performance
 
-Ici se trouvent les compte-rendus des TMEs hebdomadaires de l'UE LRC.
+Ici se trouvent les compte-rendus des TMEs hebdomadaires de l'UE HPC.
